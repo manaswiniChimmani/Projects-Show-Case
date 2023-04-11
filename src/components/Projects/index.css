@@ -1,0 +1,48 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: 'Roboto';
+}
+.nav {
+  background-color: #cbd5e1;
+  padding: 20px;
+}
+.logo {
+  width: 100px;
+}
+.input {
+  color: #1e293b;
+  background-color: transparent;
+  border-radius: 2px;
+  border: 1px solid #cbd5e1;
+  outline: none;
+  padding: 10px;
+  height: 40px;
+  margin: 40px;
+  width: 320px;
+  border-radius: 5px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.failure-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.btn {
+  background-color: #328af2;
+  color: #ffffff;
+  padding: 10px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.fail-img {
+  width: 200px;
+}
